@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace = "dev.pharsh.sms_user_consent_example"
+    namespace = "dev.pharsh.sms_user_consent"
     compileSdkVersion 30
 
     compileOptions {
